@@ -3,7 +3,7 @@ R scripts and output files for Master’s thesis on assortative mating and incom
 
 This repository contains R scripts and outputs used in my Master's thesis titled:
 
-**"Assortative Matching and Its Effect on Household Income Inequality"**
+**"ASSORTATIVE MATING AND HOUSEHOLD INEQUALITY"**
 
 # Structure
 
